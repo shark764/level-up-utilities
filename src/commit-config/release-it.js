@@ -14,7 +14,7 @@ module.exports = {
   npm: {
     publish: true,
   },
-  github: {
+  gitlab: {
     release: true,
   },
   plugins: {
