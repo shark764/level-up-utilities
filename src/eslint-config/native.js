@@ -6,7 +6,6 @@ base.env = {
   'react-native/react-native': true,
 };
 base.extends = [
-  '@react-native-community',
   'airbnb',
   'eslint-config-prettier',
   'eslint:recommended',
