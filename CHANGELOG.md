@@ -1,3 +1,10 @@
+## [0.1.3](https://gitlab.com/focus-ventures/level-up-utilities/compare/v0.1.2...v0.1.3) (2021-09-02)
+
+
+### Bug Fixes
+
+* Removing native and web configurations ([607e55f](https://gitlab.com/focus-ventures/level-up-utilities/commit/607e55f8fd1d8ff7d32acddfc71c7b161bb66559))
+
 ## [0.1.2](https://gitlab.com/focus-ventures/level-up-utilities/compare/v0.1.1...v0.1.2) (2021-09-02)
 
 
