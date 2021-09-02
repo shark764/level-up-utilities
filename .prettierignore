@@ -1,0 +1,22 @@
+# .prettierignore
+
+node_modules/**
+.env
+public
+static
+dist
+build
+
+.swp
+.DS_Store
+yarn-error.log
+
+coverage
+
+# templates
+templates/**
+
+# storybook/**
+
+# bob
+lib/
