@@ -1,6 +1,6 @@
 {
   "name": "@level-up/utilities",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Library written in JS that contains all useful functions and setups",
   "author": "Farid Hernandez <farid.hdz.64@gmail.co> (https://github.com/shark764)",
   "main": "lib/index.js",
